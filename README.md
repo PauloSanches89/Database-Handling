@@ -12,7 +12,6 @@ This is a **Python + SQLite3-based command-line application** that allows users 
 | --------------------- | --------------------------------------------------------------------------------- |
 | `HyperionDev.db`      | SQLite database storing students, courses, reviews, and teacher information       |
 | `Lookup.py`           | Main Python script to interact with the database                                  |
-| `Database README.txt` | This file: overview and documentation                                             |
 | `create_database.sql` | SQL file that creates the database "HyperionDev.db" when run (replaces if exists) |
 
 ---
